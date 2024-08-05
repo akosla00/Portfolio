@@ -1,0 +1,21 @@
+body {
+  background-color: #002642 !important;
+  color: #e5dada !important;
+}
+
+.nav-item {
+  width: 150px;
+}
+
+.imgBorder {
+  border-color: #e5dada;
+  border-style: solid;
+  border-width: thin;
+}
+
+/* .imgMargin {
+  margin-top: 75px;
+  margin-left: ;
+} */
+
+
