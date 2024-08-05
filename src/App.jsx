@@ -7,7 +7,7 @@ import Resume from './pages/Resume';
 import Footer from './components/Footer'
 
 function App() {
-  const [page, setPage] = useState("portfolio")
+  const [page, setPage] = useState("about")
   const currentPage = () => {
     if (page === "about") {
       return <About />
